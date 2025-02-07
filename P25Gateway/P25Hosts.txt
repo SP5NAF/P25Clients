@@ -585,6 +585,9 @@
 # 25641 Russia P25 Net
 25641	194.182.85.217		41000
 
+# 26059 Poland P25 Kurpie
+26059 p25.kurpie.noip.pl  41000
+
 # 26078 Poland HBLink Network
 26078	p25.hblink.kutno.pl	41000
 
